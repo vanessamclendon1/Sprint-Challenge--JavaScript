@@ -31,7 +31,7 @@ Edit this document to include your answers after each question. Make sure to lea
 1. Describe the biggest difference between `.forEach` & `.map`.
 
 
-.forEach loops through an array and converts things within an array.
+.forEach loops through
 
 
 
